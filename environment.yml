@@ -4,6 +4,5 @@ channels:
 dependencies:
   - python
   - numpy
-  conda:
-    - matplotlib
-    - voila
+  - matplotlib
+  - voila
