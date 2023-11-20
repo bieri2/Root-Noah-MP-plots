@@ -6,3 +6,8 @@ dependencies:
   - numpy
   - matplotlib
   - voila
+  - xarray
+  - cartopy
+  - proplot
+  - netCDF4
+  - wrf
