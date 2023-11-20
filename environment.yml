@@ -1,0 +1,14 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - voila
+  - xarray
+  - cartopy
+  - proplot
+  - netCDF4
+  - wrf
+  - pandas
