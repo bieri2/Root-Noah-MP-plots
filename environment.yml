@@ -11,3 +11,4 @@ dependencies:
   - proplot
   - netCDF4
   - wrf
+  - pandas
